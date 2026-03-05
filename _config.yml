@@ -2,7 +2,7 @@
 title: Ngắm Chị Đẹp
 email: ""
 description: "Photo Journal"
-url: "https://2d7tahcklp7rtjk322ag1ms56lrkkdu41gk.github.io"
+url: "https://ngamchidep.github.io"
 baseurl: "/stars/"
 facebook_username: ""
 twitter_username: ""
@@ -30,7 +30,7 @@ comments :
 
 # Internal nav
 nav:
-  - Lý Nhã Kỳ: "/stars.lynhaky.hcm.romania.honoraryconsul/"
+  - Lý Nhã Kỳ: "/stars/stars.lynhaky.hcm.romania.honoraryconsul/"
 
 # All translation keys
 translations:
